@@ -1,0 +1,5 @@
+.habits-list {
+  display: flex;
+  max-width: 60%;
+  flex-direction: row;
+}
